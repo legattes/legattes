@@ -19,14 +19,10 @@
 
 
 
-
-
-
-
-
-
-
-
 # Certificações
  <img alt="Certificação SCRUM emitido pela CertiProf" height="100" width="100" src="https://cdn.shopify.com/s/files/1/0299/9215/7283/files/Scrum-Foundation-Professional-Certificate-SFPC_-2021_1_480x480.png?v=1631898363"/>
 
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=legattes&layout=compact&hide_border=true&hide=css,html,scss,python&theme=dracula)](https://github.com/legattes/github-readme-stats)
